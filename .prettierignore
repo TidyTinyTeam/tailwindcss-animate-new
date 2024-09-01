@@ -5,3 +5,5 @@ LICENSE
 
 # dont format translations
 /docs/zh/**
+package.json
+.npmrc
